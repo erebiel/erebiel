@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @erebiel
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning NodeJs and React.
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Node.js and React
