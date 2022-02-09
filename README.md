@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @erebiel
 - 👀 I’m a web integrator interested in web development
-- 🌱 I’m currently learning Vue, React, SASS/SCSS, NodeJS, MongoDB, Express, EJS
+- 🌱 I’m currently learning React, SASS/SCSS, NodeJS, MongoDB, Express, EJS, Vue
